@@ -1,12 +1,3 @@
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qlsjtmek2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -32,13 +23,11 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qlsjtmek2&layout=compact&theme=tokyonight&hide_border=true)
-
 ---
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=qlsjtmek2&theme=tokyonight&no-frame=true&row=1&column=6)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qlsjtmek2&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -47,6 +36,16 @@
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=qlsjtmek2&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/qlsjtmek2/qlsjtmek2/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
