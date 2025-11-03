@@ -1,7 +1,9 @@
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qlsjtmek2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=qlsjtmek2&theme=tokyonight&hide_border=true)
+</div>
 
 ---
 
@@ -33,7 +35,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qlsjtmek2&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
-## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -42,8 +43,6 @@
 </div>
 
 ---
-
-## 📈 Activity Graph
 
 <div align="center">
 
